@@ -1,7 +1,7 @@
 # Lab-AP-07-2026
-Lab Algoritma dan Pemrograman Asistensi AP-07 2024
+Lab Algoritma dan Pemrograman Asistensi AP-07 2026
 
-# Repositori Tugas Algoritma dan Pemrograman 2024
+# Repositori Tugas Algoritma dan Pemrograman 2026
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
